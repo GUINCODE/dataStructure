@@ -1,0 +1,15 @@
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/bin/Debug/net6.0/LinkedListImplementatio
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/bin/Debug/net6.0/LinkedListImplementatio.deps.json
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/bin/Debug/net6.0/LinkedListImplementatio.runtimeconfig.json
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/bin/Debug/net6.0/LinkedListImplementatio.dll
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/bin/Debug/net6.0/ref/LinkedListImplementatio.dll
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/bin/Debug/net6.0/LinkedListImplementatio.pdb
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/obj/Debug/net6.0/LinkedListImplementatio.csproj.AssemblyReference.cache
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/obj/Debug/net6.0/LinkedListImplementatio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/obj/Debug/net6.0/LinkedListImplementatio.AssemblyInfoInputs.cache
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/obj/Debug/net6.0/LinkedListImplementatio.AssemblyInfo.cs
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/obj/Debug/net6.0/LinkedListImplementatio.csproj.CoreCompileInputs.cache
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/obj/Debug/net6.0/LinkedListImplementatio.dll
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/obj/Debug/net6.0/ref/LinkedListImplementatio.dll
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/obj/Debug/net6.0/LinkedListImplementatio.pdb
+/Users/aguibou/C# Dotnet/data structure/LinkedListImplementatio/obj/Debug/net6.0/LinkedListImplementatio.genruntimeconfig.cache

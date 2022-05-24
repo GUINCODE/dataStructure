@@ -1,0 +1,15 @@
+/Users/aguibou/C# Dotnet/data structure/myLListe/bin/Debug/net6.0/myLListe
+/Users/aguibou/C# Dotnet/data structure/myLListe/bin/Debug/net6.0/myLListe.deps.json
+/Users/aguibou/C# Dotnet/data structure/myLListe/bin/Debug/net6.0/myLListe.runtimeconfig.json
+/Users/aguibou/C# Dotnet/data structure/myLListe/bin/Debug/net6.0/myLListe.dll
+/Users/aguibou/C# Dotnet/data structure/myLListe/bin/Debug/net6.0/ref/myLListe.dll
+/Users/aguibou/C# Dotnet/data structure/myLListe/bin/Debug/net6.0/myLListe.pdb
+/Users/aguibou/C# Dotnet/data structure/myLListe/obj/Debug/net6.0/myLListe.csproj.AssemblyReference.cache
+/Users/aguibou/C# Dotnet/data structure/myLListe/obj/Debug/net6.0/myLListe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aguibou/C# Dotnet/data structure/myLListe/obj/Debug/net6.0/myLListe.AssemblyInfoInputs.cache
+/Users/aguibou/C# Dotnet/data structure/myLListe/obj/Debug/net6.0/myLListe.AssemblyInfo.cs
+/Users/aguibou/C# Dotnet/data structure/myLListe/obj/Debug/net6.0/myLListe.csproj.CoreCompileInputs.cache
+/Users/aguibou/C# Dotnet/data structure/myLListe/obj/Debug/net6.0/myLListe.dll
+/Users/aguibou/C# Dotnet/data structure/myLListe/obj/Debug/net6.0/ref/myLListe.dll
+/Users/aguibou/C# Dotnet/data structure/myLListe/obj/Debug/net6.0/myLListe.pdb
+/Users/aguibou/C# Dotnet/data structure/myLListe/obj/Debug/net6.0/myLListe.genruntimeconfig.cache
